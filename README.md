@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I´m a graduate from Le wagon bootcamp, i became a Full Stack in Ruby on Rails. Currently i´m studyng in CoderHouse to become a full Stack Javascript Developer. At the moment i`m  building my own website and now starting to add Javascript to it. I enjoy the process of learning to code and learn new technologies<br>
+Hello! I´m a graduate from Le wagon bootcamp, i became a Full Stack in Ruby on Rails. Currently i´m studyng in CoderHouse to become a full Stack Javascript Developer. At the moment i`m learning Back End . I really enjoy the process of learning to code and to earn more knowledge in new technologies.<br>
 
 
 ## 🌐 Socials:
