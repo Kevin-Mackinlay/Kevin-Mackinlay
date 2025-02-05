@@ -2,7 +2,7 @@
 Hi! I’m Kevin Mackinlay, a Full Stack Developer specializing in React, TypeScript, and Next.js. I’m passionate about building dynamic web applications and currently working on *Busca Tu Servicio*, a platform connecting people with local service providers. I love learning new technologies, solving coding challenges, and continuously improving my skills.
 
 # 💫 Additional Info:
-Hello! I’m a graduate of Le Wagon Bootcamp and CoderHouse, where I became a Full Stack Developer. Currently, I’m working on freelance projects, doing networking with a team, creating websites, and working on a future Bootcamp program. I enjoy the process of learning to code and expanding my knowledge of new technologies.
+I’m a graduate of Le Wagon Bootcamp and CoderHouse, where I became a Full Stack Developer. Currently, I’m working on freelance projects, doing networking with a team, creating websites, and working on a future Bootcamp program. I enjoy the process of learning to code and expanding my knowledge of new technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mackinlay-kevin) 
